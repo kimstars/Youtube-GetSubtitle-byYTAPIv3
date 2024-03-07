@@ -1,0 +1,1706 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "juE5_M5RS0E7Q9Pmr_njbAUcEds",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Drjy-5GRR6eIkovDbygVAqkQnBw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "okK8S3UpfLQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T06:22:27Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Cực nóng: Thủ tướng nước NATO vào diện đặc biệt bị nghi ngờ âm thầm giúp Nga Phó Chủ tịch Ủy ban ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/okK8S3UpfLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/okK8S3UpfLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/okK8S3UpfLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T06:22:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cwAv2XAM62Gk6vca4RYzRvZyCgY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nnr8DrVNfQs"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T22:00:27Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới 7/3: Nga gom 130.000 quân đánh trận lớn, BQP Ukraine ngày đêm đào vội công sự",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Nga gom 130.000 quân đánh trận lớn, BQP Ukraine ngày đêm đào vội công sự - Nga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nnr8DrVNfQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nnr8DrVNfQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nnr8DrVNfQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T22:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_Dw8aoAc9yceuk-2pn14MtOVvR0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AqOFyOSGsng"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-07T00:55:13Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Ukraine tuyên bố 2 triệu UAV nhấn chìm Nga trong bão lửa dữ dội Máy bay không người lái (UAV) đang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AqOFyOSGsng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AqOFyOSGsng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AqOFyOSGsng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-07T00:55:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dfPg5tsL4gfRBhu_doVD60VBZCc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VYZYMpnhzlo"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-12T14:27:29Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Chiến sự Nga - Ukraine mới nhất: Nga bắn hạ 2 tên lửa lao vào cầu Crimea",
+                "description": "VNEWS - Ông Serge Aksenov, Thống đốc Crimea do Nga bổ nhiệm, cho biết Lực lượng phòng không nước này đã bắn 2 hai tên ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VYZYMpnhzlo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VYZYMpnhzlo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VYZYMpnhzlo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-12T14:27:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1xHQ_xFxMVPv5EGqZIpPspbriNM",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-05T07:52:44Z",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg",
+                "title": "Tin24h",
+                "description": "THVN là kênh TIN TỨC CẬP NHẬT LIÊN TỤC 24H TIN TỨC VIỆT NAM, Tin Thế giới, thời sự quốc tế, tin tức nga ukraine, tình hình ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/GDGi0eNpFLSP5moUSLaKut98wn6NHdddtNwNXdubmi5Bzw2t4PBDSdWvzrNzSLUb6tUSpIPfarI=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/GDGi0eNpFLSP5moUSLaKut98wn6NHdddtNwNXdubmi5Bzw2t4PBDSdWvzrNzSLUb6tUSpIPfarI=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/GDGi0eNpFLSP5moUSLaKut98wn6NHdddtNwNXdubmi5Bzw2t4PBDSdWvzrNzSLUb6tUSpIPfarI=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Tin24h",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-05T07:52:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pwPbQDzGMAANtGwlRetW5wc2SWQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yccuijOyyH0"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T22:00:25Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Thời sự quốc tế:Ủy Ban Châu Âu thẳng thừng tuyên bố Thủ tướng nước NATO &quot;âm thầm&quot; giúp ông Putin",
+                "description": "Phó Chủ tịch Ủy ban Châu Âu Věra Jourová tin rằng, Thủ tướng Slovakia Robert Fico đang giúp đỡ Điện Kremlin trong những ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yccuijOyyH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yccuijOyyH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yccuijOyyH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T22:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8nf9ZF7C1_gjmYIdaCQjngO59Zk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5Sac5GD382c"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T08:28:19Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: Avdiivka dồn dập diễn biến mới, Nga “đánh sập” Marinka, Bakhmut",
+                "description": "Trong 24 giờ qua, chiến sự Ukraine xảy ra nhiều diễn biến mới. Ukraine phá hủy một tàu tuần tra Hải quân Nga ở Biển Đen, trong ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Sac5GD382c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Sac5GD382c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Sac5GD382c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T08:28:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CQSPrPqhCFNO7j4Aj0LBIuBfb2Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "odHLAFnqnXM"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T22:00:07Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới 7/3: NATO càn quét quân sự tại biên giới Nga, Moscow vội lập loạt quân khu mới",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: NATO tăng cường mạnh quân sự biên giới nga, Moscow vội lập loạt quân khu mới ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/odHLAFnqnXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/odHLAFnqnXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/odHLAFnqnXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T22:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sWzWKblo6XUDua1Ct7DorOBN4s4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ueKCmYf23bs"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-10T09:00:30Z",
+                "channelId": "UC47WI-kZXFf0H_f7pvaNCEQ",
+                "title": "Chiến sự Nga - Ukraine khốc liệt hơn",
+                "description": "Giới phân tích cho rằng đợt phản công của Ukraine đã bắt đầu và tăng tốc khi giao tranh đang diễn ra hết sức ác liệt ở miền đông ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ueKCmYf23bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ueKCmYf23bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ueKCmYf23bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Báo Tuổi Trẻ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-10T09:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F0idK4rzAnMRSWyFezJuuyKi_QY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AmOCHOqm5pA"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T11:51:16Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Pháp bắt đầu hành động, điều lực lượng đặc nhiệm tới Ukraine 'dạy' Kiev đe dọa Nga Tờ báo Pháp Le ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AmOCHOqm5pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AmOCHOqm5pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AmOCHOqm5pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T11:51:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZqfV6tJREoeesSJ77DkN5YU0bYg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u08tjm8FrU0"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T00:36:07Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất| Ukraine ra 'đòn hiểm' vào Bộ Quốc Phòng Nga, toàn bộ tướng lĩnh Moscow 'trong tầm ngắm' Tình báo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u08tjm8FrU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u08tjm8FrU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u08tjm8FrU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T00:36:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fdzgaA6Je6X5fnNTlijmknd4SnA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pCuhjJ7G2Tw"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T07:32:37Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: Nga đột ngột dừng lại ở Avdiivka, Kiev vùng dậy tấn công khủng khiếp",
+                "description": "Có vẻ như Ukraine đã vực dậy được tinh thần, cùng với lực lượng mới tăng cường, họ đang dần dần lấy lại thế trận và chặn đứng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pCuhjJ7G2Tw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pCuhjJ7G2Tw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pCuhjJ7G2Tw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T07:32:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L_2v13GtgIjTr7Z69Quo41Xzbhc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RJ_ACv3NN8o"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-02T05:00:12Z",
+                "channelId": "UC47WI-kZXFf0H_f7pvaNCEQ",
+                "title": "Chiến sự Nga, Ukraine tăng tốc tấn công",
+                "description": "Chiến sự Nga - Ukraine đang tăng nhiệt khi Kiev bị tố đẩy mạnh các cuộc tấn công bằng drone qua bên kia biên giới, trong khi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RJ_ACv3NN8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RJ_ACv3NN8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RJ_ACv3NN8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Báo Tuổi Trẻ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-02T05:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gSMdepRA0nNUcBCzIBBbbl4yIyQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SJzbBf5CZ4I"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T07:26:33Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: Kiev đang phải “trả giá quá đắt”, cảnh báo “thảm kịch” đang cận kề",
+                "description": "Giao tranh ác liệt vẫn đang tiếp tục diễn ra tại Avdiivka, khi Nga chưa thể tiến qua được tuyến phòng thủ tiếp theo. Tuy nhiên, để ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJzbBf5CZ4I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJzbBf5CZ4I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJzbBf5CZ4I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T07:26:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bbtXKVHMJbcBb1kg_qVtjpV3JtQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yEzpqz10Ftw"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T08:26:38Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: Ukraine “vùng dậy” tấn công dữ dội, chặn đứng quân Nga tại Avdiivka",
+                "description": "Chiến trường Nga - Ukraine ngày qua có những diễn biến mới. Sau hai tuần rút lui khỏi Avdiivka, có vẻ như lực lượng Ukraine đã ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yEzpqz10Ftw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yEzpqz10Ftw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yEzpqz10Ftw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T08:26:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IdlZbsmnwGIs7gywYaiwd-MDQyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ou52jpV29-A"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T09:06:18Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Ớn lạnh khoảnh khắc UAV Nga trút xuống, pháo tự hành Ukraine nổ tung trong biển lửa",
+                "description": "Nga Ukraine mới nhất | Ớn lạnh khoảnh khắc UAV Nga trút xuống, pháo tự hành Ukraine nổ tung trong biển lửa Bộ Quốc phòng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ou52jpV29-A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ou52jpV29-A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ou52jpV29-A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T09:06:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SntFuhcJ9PsU2xCIJTes-_6Pst0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GPfNJ7zZHvU"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T22:30:07Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Thời sự Quốc tế sáng 5/3.Nga đánh rát, hạ gục loạt chiến tăng Mỹ, Ukraine buộc rút khỏi bắc Avdiivka",
+                "description": "VNews - Trong cuộc giao tranh để ngăn chặn cuộc tiến công của Nga ở phía Tây Avdiivka, Lữ đoàn Cơ giới 47 của quân đội ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GPfNJ7zZHvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GPfNJ7zZHvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GPfNJ7zZHvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T22:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZcsZzqZaWNJtee676GyQsTsYDYE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aoCCxMLZmRw"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-01T02:33:18Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Binh sĩ Ukraine cầu cứu khẩn cấp trước sức mạnh của Nga Nhóm phóng viên CBS News vừa quay lại ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aoCCxMLZmRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aoCCxMLZmRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aoCCxMLZmRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-01T02:33:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4UbEJq0ld3cQjaaRYwF3DlKDWeA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1QBhSYBb9Ik"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T05:08:16Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Mỹ tiết lộ kế hoạch rực lửa của Nga, Ukraine “mặc định” mất thêm 2 lãnh thổ lớn Đại tá Douglas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1QBhSYBb9Ik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1QBhSYBb9Ik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1QBhSYBb9Ik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T05:08:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EOB_Iqst2xUBPHHl-ccackC05T4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "weq24jzhRVE"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-01T08:33:50Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: 4 tập đoàn quân Nga tham chiến, “đòn đánh cuối cùng” với Ukraine?",
+                "description": "Theo kênh Military Summary, với 4 tập đoàn quân mới đang được đưa vào tham chiến, dường như Moscow hạ quyết tâm tung ra ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/weq24jzhRVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/weq24jzhRVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/weq24jzhRVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-01T08:33:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BQTh0TP_1O42IO1utyYlfozDxBg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DEEvhN2x-GA"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T03:32:22Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Quân đội Nga lập kỷ lục chiến trường, NATO lập tức phá nát kế hoạch",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Quân đội Nga lập kỷ lục chiến trường, NATO lập tức phá nát kế hoạch - Nga ngăn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DEEvhN2x-GA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DEEvhN2x-GA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DEEvhN2x-GA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T03:32:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J_MwlYLqoIApWNyGaollqeOcVzY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tWI1LQ7UMSI"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T04:00:07Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Nga đánh trực diện,lữ đoàn Ukraine lũ lượt tháo lui; Siêu tăng Abrams liên tục bị tiêu diệt - VNews",
+                "description": "VNews - Trong cuộc giao tranh để ngăn chặn cuộc tiến công của Nga ở phía Tây Avdiivka, Lữ đoàn Cơ giới 47 của quân đội ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tWI1LQ7UMSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tWI1LQ7UMSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tWI1LQ7UMSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T04:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mI99o5d7Rz6m6ytmdZALKEpn9QM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YiqgXLt-fDg"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T22:00:11Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Nguy cơ rất cao NATO chiến đấu với Nga, nhà máy vũ khí Nga sản xuất ngày đêm",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Nguy cơ rất cao NATO chiến đấu với Nga, nhà máy vũ khí Nga sản xuất ngày đêm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YiqgXLt-fDg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YiqgXLt-fDg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YiqgXLt-fDg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T22:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QvZto1Q9YhfgeUJoe7I_kHx_K6M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F0Brm56AjHw"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T10:00:08Z",
+                "channelId": "UCX1ZYrJ4PHsOxw06KnfsBEQ",
+                "title": "Chiến sự Nga - Ukraine: Su-34 Nga ầm ầm rải bom, Kiev tổn thất nặng nề nhất kể từ đầu năm l VTs",
+                "description": "VietTimes | Giao tranh ác liệt tiếp tục diễn ra ở Avdiivka. Nga vẫn chưa thể vượt qua được tuyến phòng thủ tiếp theo. Tuy nhiên ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F0Brm56AjHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F0Brm56AjHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F0Brm56AjHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tạp chí VietTimes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T10:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A_V1FPrcF9N-rWVstRxwI1LuQNA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k50eo51njWA"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T08:17:26Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Cập nhật chiến sự Ukraine: Ukraine ồ ạt tung “siêu tăng”, Nga trút mưa bom hủy diệt 3 “tâm chấn”",
+                "description": "Ukraine đang tổ chức phản kích dữ dội ở phía Tây Avdiivka khi ồ ạt tung siêu tăng M1 Abrams vào tham chiến, chặn đứng đà tấn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k50eo51njWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k50eo51njWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k50eo51njWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T08:17:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TTlMRcueeC7lSlyqMAvqLyhVWv4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R9pjok9Nid8"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T22:00:07Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Bị Ukraine đánh úp chớp nhoáng, kinh hoàng, Bộ quốc phòng Nga chỉ đạo nóng",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Bị Ukraine đánh úp chớp nhoáng, kinh hoàng, Bộ quốc phòng Nga chỉ đạo nóng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R9pjok9Nid8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R9pjok9Nid8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R9pjok9Nid8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T22:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X0iSw6YstDj5zU4QubS72znI26w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z8DfaoT3wmM"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T13:00:10Z",
+                "channelId": "UCHCos7l5Nol2OZfFFkDXckg",
+                "title": "Diễn biến chiến sự Nga - Ukraine ngày 3/3 | Dồn lực lượng khủng - Động thái mới của Nga Đông Ukraine",
+                "description": "Báo Điện tử VOV | Vừa qua một quan chức Ukraine cảnh báo rằng Nga đang tập trung lực lượng quy mô lớn quanh Chasiv Yar ở ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z8DfaoT3wmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z8DfaoT3wmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z8DfaoT3wmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Báo Điện tử VOV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T13:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZCrF71oSVZNeXVb7yvYhAEuynQY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hC2uFxuIYOc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-06T15:20:21Z",
+                "channelId": "UCX1ZYrJ4PHsOxw06KnfsBEQ",
+                "title": "🔴 TRỰC TIẾP: Thời sự quốc tế 07/3 | Giao tranh khốc liệt ở Avdiivka, Lính Ukraine sợ hãi bỏ chạy",
+                "description": "VietTimes | Thời sự quốc tế 07/3 | Giao tranh khốc liệt ở Avdiivka, Lính Ukraine sợ hãi bỏ chạy ▷ Kênh Youtube tạp chí VietTimes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hC2uFxuIYOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hC2uFxuIYOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hC2uFxuIYOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tạp chí VietTimes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-06T15:20:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ithd2l4kXZBr36LfPjfe9h7y0Z0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t-dJIRfPdfk"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T06:26:21Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Nga kích hoạt “siêu tên lửa” RS-24 Yars: NATO, Ukraine “như ngồi trên đống lửa”",
+                "description": "Nga đã thử tên lửa đạn đạo xuyên lục địa RS-24 Yars được cho là để gieo rắc nỗi sợ hãi cho người dân phương Tây và từ đó làm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t-dJIRfPdfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t-dJIRfPdfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t-dJIRfPdfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T06:26:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_xC0anUzOKWbH__-aAnx0vOBf0w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8ILMOhOG4oc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T06:31:12Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Tổng thống Pháp Macron bất ngờ “chốt” kịch bản đưa quân tham chiến tại Ukraine | Nghệ An TV",
+                "description": "Tổng thống Pháp Emmanuel Macron cho biết Pháp không có ý định đưa quân đến Ukraine trong tương lai gần và ông cũng hiểu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ILMOhOG4oc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ILMOhOG4oc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ILMOhOG4oc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T06:31:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y7MJeTo-QPjkGOyHTS16CaRgO8E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e2zrI17zvO4"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T02:42:24Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Quê hương ông Putin 'náo loạn' vì UAV, xe bom xâm nhập Crimea Một vụ nổ mạnh đã làm rung chuyển ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e2zrI17zvO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e2zrI17zvO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e2zrI17zvO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T02:42:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qkOTrMP4O0kjx2T3ZirNvGCrmn8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MxNoYiNB8Es"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T22:00:10Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Nóng: Nga chỉ còn cách &#39;pháo đài&#39; của Ukraine 500m; Tướng Ukraine lệnh khẩn",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Nóng: Nga chỉ còn cách 'pháo đài' của Ukraine 500m; Tướng Ukraine lệnh khẩn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MxNoYiNB8Es/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MxNoYiNB8Es/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MxNoYiNB8Es/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T22:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8ymYoNHIltrfEZQ2J5af8zHhuMA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fNzHp7ldG-k"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T09:30:09Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng Thế giới: Phía đông Ukraine nổ tung khủng khiếp, quân đội Ukraine đang tuyệt vọng",
+                "description": "Nga Ukraine mới nhất | Điểm nóng Thế giới: Phía đông Ukraine nổ tung khủng khiếp, quân đội Ukraine đang tuyệt vọng - Nga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fNzHp7ldG-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fNzHp7ldG-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fNzHp7ldG-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T09:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EOYFkerl2gaCT1zIOE8tY0M3-PE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wynqdf7xhyk"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-29T05:31:15Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Video tiêm kích 'cực kỳ đáng sợ' của Pháp xuất kích, áp sát máy bay trinh sát đáng ngờ Nga Pháp tuyên ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wynqdf7xhyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wynqdf7xhyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wynqdf7xhyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-29T05:31:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "265ON93085TiOGbclsgDU4Y63uU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UottqgliLjE"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-01T22:35:11Z",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg",
+                "title": "Cập nhật chiến sự Nga Ukraine sáng 2/2: Tổng thống Nga Putin công bố kế hoạch mới ở Ukraine | THVN",
+                "description": "THVN #tintuc ▷THVN là kênh Youtube chia sẻ các nội dung tin tức, thời sự ,thời sự 19h,tin tức mới,tin mới,thời sự quốc tế,tin tức ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UottqgliLjE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UottqgliLjE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UottqgliLjE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tin24h",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-01T22:35:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7BSfi5qdWWReD9vWXft-e_92hOc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S68yp8GKtdc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T11:15:10Z",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg",
+                "title": "Diến biến chiến sự Nga Ukraine mới nhất 3/3: Không quân Ukraine tiếp tục hạ gục thêm Su-34 của Nga",
+                "description": "tin tức 24h #tintuc ▷THVN là kênh Youtube chia sẻ các nội dung tin tức, thời sự ,thời sự 19h,tin tức mới,tin mới,thời sự quốc tế,tin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S68yp8GKtdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S68yp8GKtdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S68yp8GKtdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tin24h",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T11:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l5Yo3cGiT0q3LDJudd9Bgd8TKlU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2tcw-ayqDOY"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-25T23:25:23Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Video quân đội Nga tiến quân thần tốc, “tả xung hữu đột” vào trung tâm làng Rabotino Quân đội Ukraine ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2tcw-ayqDOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2tcw-ayqDOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2tcw-ayqDOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-25T23:25:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jAddbJmkISNye9nVeAsJ9rqpdrU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "id88Vxhxo2U"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-23T02:20:24Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Ông Zelensky 'phát hỏa' khẩn cấp hành động khi dòng người biểu tình ủng hộ Nga vây kín biên giới Al ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/id88Vxhxo2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/id88Vxhxo2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/id88Vxhxo2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-23T02:20:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "70X0ZDqNhX9vShaGXXfpeuRrXAU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MkGAJFQ7-Hs"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-01T05:45:07Z",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg",
+                "title": "Chiến sự Nga Ukraine mới nhất 1/3:Ukraine phản kích, đánh bật Nga khỏi thành phố ở Donetsk | Tin 24h",
+                "description": "tin tức 24h #tintuc ▷THVN là kênh Youtube chia sẻ các nội dung tin tức, thời sự ,thời sự 19h,tin tức mới,tin mới,thời sự quốc tế,tin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MkGAJFQ7-Hs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MkGAJFQ7-Hs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MkGAJFQ7-Hs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tin24h",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-01T05:45:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Pb9dTCzHF0prorRKpJbr7SomBQ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uM9e1QBUMuU"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-30T09:30:07Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Cựu tư lệnh NATO: Nga và Ukraine dễ rơi vào cảnh tượng bán đảo Triều Tiên",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Cựu tư lệnh NATO: Nga và Ukraine dễ rơi vào cảnh tượng bán đảo Triều Tiên - Cựu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uM9e1QBUMuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uM9e1QBUMuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uM9e1QBUMuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-30T09:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GvF7v8m1waE7rzRoYXG0CDpBuZQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y8Xsbd6SgeA"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T08:45:08Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Thời sự Quốc tế trưa 4/3.Ukraine lộ tử huyệt,Nga bắt bài công phá Zaporizhzhia,chiếm loạt thành trì",
+                "description": "VNews - Ông Vladimir Rogov, lãnh đạo phong trào We Are Together with Russia (tạm dịch là “Chúng tôi cùng với nước Nga”) vừa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y8Xsbd6SgeA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y8Xsbd6SgeA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y8Xsbd6SgeA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T08:45:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eDD5Ni909OH_YN1aASlRYwuATM8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CvQ8uh4-dzk"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T03:03:19Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Cập nhật chiến sự Nga - Ukraine | Tin thế giới mới nhất hôm nay",
+                "description": "Nga Ukraine mới nhất | Gần 20 nước vội vã đến Pháp họp bàn, Nga cảnh báo nguy cơ thế chiến 3 Điện Kremlin cảnh báo xung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CvQ8uh4-dzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CvQ8uh4-dzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CvQ8uh4-dzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T03:03:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SYKgQLNYOE97pfdrtmlizcGyojY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HvV7wn_Lw-c"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-09T01:45:07Z",
+                "channelId": "UCUmRGR3a-g13O6pG927KQmg",
+                "title": "Cập nhật chiến sự Nga Ukraine sáng 9/2: Ukraine kêu gọi Châu Âu tăng cường cung cấp đạn dược | THVN",
+                "description": "THVN #tintuc ▷THVN là kênh Youtube chia sẻ các nội dung tin tức, thời sự ,thời sự 19h,tin tức mới,tin mới,thời sự quốc tế,tin tức ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HvV7wn_Lw-c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HvV7wn_Lw-c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HvV7wn_Lw-c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tin24h",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-09T01:45:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hO7vt2YvIXQ0wb1FMxyBkR_XP-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "axMZUd745lo"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T09:30:11Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Cuộc đổ bộ thần thánh của Ukraine giành lại loạt lãnh thổ đã mất vào tay Nga",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Cuộc đổ bộ thần thánh của Ukraine giành lại loạt lãnh thổ đã mất vào tay Nga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/axMZUd745lo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/axMZUd745lo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/axMZUd745lo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T09:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H1v01WBQreR8Y9JqTvSecs7UECA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qR-u_3ODyvc"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-04T22:00:23Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Thời sự quốc tế: Tình báo Ukraine công bố nóng bí mật cá nhân hàng loạt lãnh đạo chủ chốt Nga",
+                "description": "Tổng cục Tình báo (HUR) thuộc bộ Quốc phòng Ukraine thông báo, thông qua cuộc tấn công mạng, các tin tặc đã thành công ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qR-u_3ODyvc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qR-u_3ODyvc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qR-u_3ODyvc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-04T22:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yuLro_ktQHdXg_sMktlRC2EicZ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KF3xW8qkaCg"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-29T22:30:10Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Thời sự Quốc tế sáng 1/3. Nga đưa “chiến lợi phẩm” M2A2 Bradley của Ukraine về Moskva trưng bày",
+                "description": "VNews - Một đoàn tàu chở các thiết bị quân sự Nga thu được tại Ukraine chạy hướng về thủ đô Moscow đã được nhìn thấy, đáng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KF3xW8qkaCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KF3xW8qkaCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KF3xW8qkaCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-29T22:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JjvF62uBWWY7uDiy4Ys-vS2w-Iw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1tL6DmG4ZW0"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T09:30:10Z",
+                "channelId": "UClYUCB6tyZl50_7OcbgUHCA",
+                "title": "Điểm nóng thế giới: Ukraine sửng sốt nhận &#39;mật mã đỏ’, lộ hiệp ước cứu được triệu triệu sinh mạng",
+                "description": "Nga Ukraine mới nhất | Điểm nóng thế giới: Ukraine sửng sốt nhận 'mật mã đỏ', lộ hiệp ước cứu được triệu triệu sinh mạng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1tL6DmG4ZW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1tL6DmG4ZW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1tL6DmG4ZW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VẤN ĐỀ HÔM NAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T09:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gMRFW8c9RToZDUz1lypsZzbK24Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LQnRDFgkccY"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-03T03:28:10Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Điểm nóng quốc tế: Ngoại trưởng Nga họp báo tuyên bố về đàm phán Ukraine, chờ NATO “gật đầu”",
+                "description": "Trong cuộc họp báo sau Diễn đàn Ngoại giao Antaly, Thổ Nhĩ Kỳ, Ngoại trưởng Nga Sergey Lavrovcho biết, Moscow không từ bỏ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LQnRDFgkccY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LQnRDFgkccY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LQnRDFgkccY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-03T03:28:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TLJtId-Tv_Ueent6Ydp09CHLdwY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7cffHPFzKuU"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T23:30:07Z",
+                "channelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+                "title": "Thời sự Quốc tế sáng 3/3. Nga triệt phá mưu hiểm của Ukraine ở Crimea; đánh sập yếu điểm tây Bakhmut",
+                "description": "VNews - Theo hãng thông tấn RIA Novosti, Các đặc vụ thuộc Cơ quan An ninh Liên bang Nga (FSB) đã kịp thời phát hiện một ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7cffHPFzKuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7cffHPFzKuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7cffHPFzKuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VNEWS - TRUYỀN HÌNH THÔNG TẤN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T23:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n2m8YKKQAWQ7HMlWkZ8kbLxBLwM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "32TatpDjwjo"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-02T22:00:35Z",
+                "channelId": "UCgeQezjQQi43YaBFWD5vUyQ",
+                "title": "Thời sự quốc tế 3/3: Toàn bộ lý do khiến đàm phán hoà bình Nga - Ukraine không bao giờ diễn ra",
+                "description": "Xung đột Nga - Ukraine đã bước sang năm thứ 3 và vẫn chưa có dấu hiệu kết thúc. Tính đến thời điểm hiện tại, tình hình chiến ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/32TatpDjwjo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/32TatpDjwjo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/32TatpDjwjo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nghệ An TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-02T22:00:35Z"
+            }
+        }
+    ]
+}
