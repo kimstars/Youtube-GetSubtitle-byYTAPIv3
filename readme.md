@@ -1,4 +1,4 @@
-![image1](E:\NAM 5 KI 2\TrinhSat\buoi10\Youtube_GetSubtitle_byYTAPIv3\image\image1.jpg)
+![image1](./image/image1.jpg)
 
 
 
